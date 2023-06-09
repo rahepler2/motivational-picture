@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+}
+
+img{
+    border: 5px solid gold;
+}
+
+.image{
+    text-align: center;
+}
+
+.txt{
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-size: 3.5em;
+}
+
+p{
+    color: white;
+    font-size: 1.5em;
+}
