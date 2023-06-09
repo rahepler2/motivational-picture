@@ -4,22 +4,23 @@
 
 img{
     border: 5px solid gold;
-}
-
-.image{
-    text-align: center;
-}
-
-.txt{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 100px;
     text-align: center;
 }
 
 h1{
     color: white;
-    font-size: 3.5em;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3em;
+    text-align: center;
 }
 
 p{
     color: white;
+    text-align: center;
     font-size: 1.5em;
 }
